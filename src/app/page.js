@@ -3,7 +3,7 @@ export default function Home() {
     <main style={{ minHeight: "100vh", background: "#f7f4ee", color: "#1f1f1f", padding: "80px 24px", fontFamily: "serif" }}>
       <div style={{ maxWidth: "800px", margin: "0 auto" }}>
         <h1 style={{ fontSize: "64px", marginBottom: "24px" }}>Nazarru D. Ulhaqi</h1>
-        <p style={{ fontSize: "22px", lineHeight: 1.7, color: "#444" }}>
+        <p style={{ fontSize: "72px", fontWeight: "500", letterSpacing: "-2px", lineHeight: 1.9, color: "#444" }}> 
           MSc student in mathematics. Interested in nonlinear systems, scientific machine learning, and mathematical proofs.
         </p>
 
@@ -17,7 +17,7 @@ export default function Home() {
             <li>Logic and philosophy of science</li>
           </ul>
         </section>
-
+ 
         <section style={{ marginTop: "80px" }}>
           <h2 style={{ fontSize: "36px", marginBottom: "20px" }}>Notes</h2>
 
