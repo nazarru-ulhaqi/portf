@@ -4,7 +4,7 @@ export default function Home() {
       <div style={{ maxWidth: "800px", margin: "0 auto" }}>
         <h1 style={{ fontSize: "64px", marginBottom: "24px" }}>Nazarru D. Ulhaqi</h1>
         <p style={{ fontSize: "22px", lineHeight: 1.7, color: "#444" }}>
-          MSc Mathematics student with a background in Physics. Interested in nonlinear systems, scientific machine learning, optimisation, and mathematical thinking.
+          MSc student in mathematics. Interested in nonlinear systems, scientific machine learning, and mathematical proofs.
         </p>
 
         <section style={{ marginTop: "80px" }}>
