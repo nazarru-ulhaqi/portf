@@ -92,7 +92,7 @@ export default function Home() {
               maxWidth: "680px",
             }}
           >
-            MSc Mathematics student with a background in Physics. Interested in
+            MSc student in mathematics. Interested in
             nonlinear systems, scientific machine learning, mathematical proofs,
             and the philosophy of rigorous thought.
           </p>
