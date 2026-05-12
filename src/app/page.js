@@ -94,7 +94,7 @@ export default function Home() {
           >
             MSc student in mathematics. Interested in
             nonlinear systems, scientific machine learning, mathematical proofs,
-            and the philosophy of rigorous thought.
+            and philosophy.
           </p>
         </header>
 
