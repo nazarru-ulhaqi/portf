@@ -10,11 +10,11 @@ export default function Home() {
         <section style={{ marginTop: "80px" }}>
           <h2 style={{ fontSize: "36px", marginBottom: "20px" }}>Current Interests</h2>
           <ul style={{ lineHeight: 2, color: "#444", fontSize: "18px" }}>
-            <li>PINNs and nonlinear systems</li>
+            <li>Nonlinear systems</li>
             <li>Scientific machine learning</li>
-            <li>Optimisation landscapes</li>
-            <li>Mathematical aesthetics</li>
-            <li>Logic and rigorous thought</li>
+            <li>Optimisation problems</li>
+            <li>Mathematical proofs</li>
+            <li>Logic and philosophy of science</li>
           </ul>
         </section>
 
